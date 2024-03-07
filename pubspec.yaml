@@ -1,0 +1,42 @@
+name: alerter
+description: A flutter package to display slert/snackbar to the user.
+version: 1.0.0
+homepage: https://github.com/imsujan276/alerter
+issue_tracker: https://github.com/imsujan276/alerter/issues
+
+environment:
+  sdk: '>=2.19.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+screenshots:
+  - description: "Alerter Example"
+    path: screenshots/alerter.png
+
+topic:
+  - UI
+  - Alert
+  - Snackbar
+  - Flutter
+  - Alerter
+  - Toast
+  - Notification
+
+tags:
+  - UI
+  - Alert
+  - Snackbar
+  - Flutter
+  - Alerter
+  - Toast
+  - Notification
