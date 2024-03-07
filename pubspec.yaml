@@ -23,7 +23,7 @@ screenshots:
   - description: "Alerter Example"
     path: screenshots/alerter.png
 
-topic:
+topics:
   - UI
   - Alert
   - Snackbar
