@@ -26,7 +26,7 @@ You can use it as
 
 
 ## Screenshot
-![alerter](screenshots/alerter.gif)
+![alerter](https://github.com/imsujan276/alerter/blob/main/screenshots/alerter.gif)
 
 
 ## Properties
