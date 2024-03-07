@@ -1,5 +1,5 @@
 name: alerter
-description: A flutter package to display slert/snackbar to the user.
+description: A flutter package to display a snackbar/toast to the user.
 version: 1.0.0
 homepage: https://github.com/imsujan276/alerter
 issue_tracker: https://github.com/imsujan276/alerter/issues

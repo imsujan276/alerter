@@ -1,5 +1,5 @@
 # Alerter
-**Alerter** is the flutter package that shows custom alert/snackbar to the user. It is highly customizable and easy to integrate.  
+**Alerter** is the flutter package that shows custom snackbar/toast to the user. It is highly customizable and easy to integrate.  
 
 
 ## Usage
